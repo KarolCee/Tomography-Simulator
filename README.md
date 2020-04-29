@@ -1,0 +1,3 @@
+* Given an image creates a sinogram with the Radon transform and then using the backprojection algorithm reconstructs the original image from the sinogram.
+* By using interactive widgets we can change features like the angular spread of the emitter-detector configuration or make a  GIF to show the process of creating the sinogram/reconstructing the image.
+* The reconstructed image can be saved in the DICOM format.
